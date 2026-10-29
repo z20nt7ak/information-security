@@ -92,7 +92,10 @@ public List<UserResponceDto> getAll() {
 
 SAST:
 
+![SAST отчёт](images/sast.png)
 
 SCA:
+
+![SCA отчёт](images/sca.png)
 
 
